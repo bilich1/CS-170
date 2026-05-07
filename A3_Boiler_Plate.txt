@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> This text appears in the tab </title>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+    </head>
+    <header>
+        <div style="2px solid black">
+            <a href="/~cs17024"> Link One<a>
+            <a href="/~cs17024/pages/FirstPage.html"> Link Two <a>
+            <a href="/~cs17024/pages/SecondPage.html"> Link Three <a>
+        </div>
+    </header>
+    <body>
+        <p> This is displayed and legible content </p>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 [ line 20/22 (90%), col  1/ 5 ( 20%), char 507/510 (99%) ]
+^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was
